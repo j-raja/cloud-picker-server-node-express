@@ -9,8 +9,9 @@ GET /clouds returns the full list of clouds
 
 # Startup:
 
-In the project root run "npm run server" to start the server in localhost:3001. Thats all.
+In the project root: run "npm install" to install dependencies and "npm run server" to start the server in localhost:3001.
 
 # Requires:
-Typescript
-Node
+Typescript (pref 4.x)
+Node (pref 16.x)
+Npm (pref 8.x)
